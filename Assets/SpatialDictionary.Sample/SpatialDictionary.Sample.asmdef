@@ -1,0 +1,16 @@
+{
+    "name": "SpatialDictionary.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3a67db37c9c78404ab7b165ab9b1e92b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
